@@ -10,3 +10,4 @@ print(7*7)
 
 print(9*99)
 
+print(99*99)
