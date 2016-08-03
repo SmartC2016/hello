@@ -8,3 +8,5 @@ print(3*5)
 
 print(7*7)
 
+print(9*99)
+
