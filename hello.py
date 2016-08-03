@@ -5,3 +5,6 @@
 print("Hello, world!")
 
 print(3*5)
+
+print(7*7)
+
